@@ -1,2 +1,0 @@
-# publickey
-my public key
